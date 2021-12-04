@@ -25,6 +25,7 @@ Table of Contents:
 
 - React
 - Redux ToolKit for state management
+- Jest for testing
 - Rapid API for getting live coin amounts
 - Bing News API for gettings various realtime crypto news
 - ANT Design
@@ -39,39 +40,36 @@ Table of Contents:
 
 ## Features
 
-- Asynchronous CRUD endpoints for blog posts and categories
-- Asynchronous CRUD endpoints for contacts
-- Asynchronous CRUD endpoints for user accounts
-- Asynchronous endpoints for user authentication
-- Production ready settings file using Pydantic
-- Migrations using Alembic
-- Secure password hashing by default.
-- JWT token authentication.
+- Indepth Data about all cryptocurrencies
+- Indepth Data about crypto markets
+- Latest data about crypto exchanges
+- Cryptocurrency news
+- React best practices
+- Using Redux tool Kit to fetch APIs the right way.
+- Utilize the enterprise design feeling of Ant Design
+- Charts using chart.JS
+- Fetch Data from different API source
 
 ## Installation and Usage
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) for installation.
 
 ```bash
-- python -m venv venv
-- source venv/bin/activate
-- pip install -r requirements.txt
-- cd fastapi-async-blog
-- alembic revision --autogenerate -m "Init"
-- alembic upgrade head
-- uvicorn main:app --reload
+- Get your API keys from Rapid API, create a .env file and use the .env.example file as a guide to set your environment variables.
+- npm install
+- npm start
 ```
 
 ## Contributing
 
 Pull requests and contributions are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Ensure to follow the [guidelines](https://github.com/drmacsika/fastapi-async-blog/blob/master/CONTRIBUTING.md) and update tests as appropriate.
+Ensure to follow the [guidelines](https://github.com/drmacsika/cryptosika/blob/master/CONTRIBUTING.md) and update tests as appropriate.
 
 ## Credits
 
-All thanks to Tiangolo, I found the [Project Generation - Template](https://github.com/tiangolo/full-stack-fastapi-postgresql) incredibly helpful.
+All thanks to the Facebook React Team, Redux Team, Rapid API team, and the creators of the awesome tools and packages used.
 
 ## Additional Info
 
-For an in-depth understanding of FastAPI or any of the tools used here including questions and collaborations, you can reach out to me.
+For an in-depth understanding of REACT or any of the tools used here including questions and collaborations, you can reach out to me.
