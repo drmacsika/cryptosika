@@ -24,9 +24,7 @@ const App = () => (
       </Layout>
       <div className="footer">
         <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
-          <Link to="/">
-           CryptoSika
-          </Link>&nbsp;built by <a href="https://nsikakimoh.com">Nsikak Imoh</a>.<br />
+          <Link to="/">CryptoSika</Link>&nbsp;built by &nbsp;<a href="https://nsikakimoh.com">Nsikak Imoh</a>.<br />
           &copy; 2021. All Rights Reserved.
         </Typography.Title>
         <Space>
