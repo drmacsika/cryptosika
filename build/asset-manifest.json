@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e00b0ec6.chunk.css",
+    "main.js": "/static/js/main.1c450ff2.chunk.js",
+    "main.js.map": "/static/js/main.1c450ff2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f48ca450.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f48ca450.js.map",
+    "static/css/2.2b8316e7.chunk.css": "/static/css/2.2b8316e7.chunk.css",
+    "static/js/2.bc3a935b.chunk.js": "/static/js/2.bc3a935b.chunk.js",
+    "static/js/2.bc3a935b.chunk.js.map": "/static/js/2.bc3a935b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.2b8316e7.chunk.css.map": "/static/css/2.2b8316e7.chunk.css.map",
+    "static/css/main.e00b0ec6.chunk.css.map": "/static/css/main.e00b0ec6.chunk.css.map",
+    "static/js/2.bc3a935b.chunk.js.LICENSE.txt": "/static/js/2.bc3a935b.chunk.js.LICENSE.txt",
+    "static/media/cryptosika_logo_transparent.8292976f.png": "/static/media/cryptosika_logo_transparent.8292976f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48ca450.js",
+    "static/css/2.2b8316e7.chunk.css",
+    "static/js/2.bc3a935b.chunk.js",
+    "static/css/main.e00b0ec6.chunk.css",
+    "static/js/main.1c450ff2.chunk.js"
+  ]
+}
