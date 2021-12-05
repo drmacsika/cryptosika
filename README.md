@@ -2,7 +2,6 @@
 A real-time cryptocurrency exchange rates and news app for trading crypto and visualizing the effect of news and sentiments on prices of various cryptocurrencies. 
 
 - Live preview - [Screenshots](#screenshots)
-- Learn more - [Screenshots](https://nsikakimoh.com)
 
 Table of Contents:
 - [Screenshots](#screenshots)
@@ -16,15 +15,19 @@ Table of Contents:
 
 ## Screenshots
 
-![Blog Posts](https://github.com/drmacsika/am-backend/blob/master/templates/Screenshot%202021-10-23%20at%2020.48.16.png)
+![Logo](https://github.com/drmacsika/cryptosika/blob/master/src/images/cryptosika_logo_transparent.png)
 
-![Blog Category](https://github.com/drmacsika/am-backend/blob/master/templates/Screenshot%202021-10-23%20at%2020.48.28.png)
+![Home Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/home_page.png)
 
-![Contact](https://github.com/drmacsika/am-backend/blob/master/templates/Screenshot%202021-10-23%20at%2020.48.39.png)
+![Exchange Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/current_exchange_rate_page.png)
 
-![User Accounts](https://github.com/drmacsika/am-backend/blob/master/templates/Screenshot%202021-10-23%20at%2020.48.48.png)
+![Exchange Page 2](https://github.com/drmacsika/cryptosika/blob/master/src/images/current_exchange_rate_page2.png)
 
-![User Auth](https://github.com/drmacsika/am-backend/blob/master/templates/Screenshot%202021-10-23%20at%2020.48.57.png)
+![Top 100 Cryptocurrencies](https://github.com/drmacsika/cryptosika/blob/master/src/images/cryptocurrencies_list_page2.png)
+
+![Cryptocurrency Detail Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/crypto_detail_page.png)
+
+![Cryptocurrency Detail Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/crypto_detail_page2.png)
 
 ## Tools
 
