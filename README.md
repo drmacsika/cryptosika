@@ -13,7 +13,7 @@ Table of Contents:
 - [Contact Info](#contact-info)
 
 ## Live Preview
-[Learn more about CryptoSika and Preview the Live site.](#screenshots)
+[Learn more about CryptoSika and Preview the Live site.](https://cryptosika.netlify.app/)
 
 ## Screenshots
 
