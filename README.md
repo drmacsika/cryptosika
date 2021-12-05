@@ -53,6 +53,9 @@ Table of Contents:
 - Utilize the enterprise design feeling of Ant Design
 - Charts using chart.JS
 - Fetch Data from different API source
+- Get specific details and history on each coin
+- Search functionality for each coin.
+- Ability to filter news base on coin name.
 
 ## Installation and Usage
 
