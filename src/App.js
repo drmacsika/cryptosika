@@ -23,10 +23,10 @@ const App = () => (
         </div>
       </Layout>
       <div className="footer">
-        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>Copyright © 2021
+        <Typography.Title level={5} style={{ color: 'white', textAlign: 'center' }}>
           <Link to="/">
            CryptoSika
-          </Link> built by <a href="https://nsikakimoh.com">Nsikak Imoh</a>.<br />
+          </Link>&nbsp;built by <a href="https://nsikakimoh.com">Nsikak Imoh</a>.<br />
           &copy; 2021. All Rights Reserved.
         </Typography.Title>
         <Space>

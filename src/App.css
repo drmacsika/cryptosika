@@ -17,17 +17,18 @@
 }
 
 a:hover{
-    color: var(--pink) !important;
+    color: var(--primary) !important;
 }
 
 .app{
     display: flex;
     overflow: hidden;
+    background: var(--dark);
 }
 
 .navbar{
     flex: 0.2;
-    background-color: rgb(0, 21, 41);
+    background-color: var(--dark);
 }
 
 .main{
@@ -41,21 +42,21 @@ a:hover{
 .nav-container{
     position: fixed;
     left: 0;
-    margin: 10px;
+    margin: 0px;
     height: 100vh;
     margin: 0px;
-    background-color: rgb(0, 21, 41);
+    background-color: var(--dark);
 }
 
 .logo-container{
-    background-color: #001529;
+    background-color: var(--dark);
     display: flex;
     padding: 20px;
     align-items: center;
     width: 100%;
 }
 .logo{
-    margin:0 0 0 15px;
+    margin:13px 0 0 5px;
 }
 .logo a{
    color: white;
@@ -153,7 +154,7 @@ a:hover{
 
 .coin-heading-container .coin-name{
     font-weight: 900;
-    color: var(--pink);
+    color: var(--primary);
 }
 
 .coin-heading-container p{
@@ -173,13 +174,13 @@ a:hover{
     font-weight: 700;
     font-size: 1.4rem;
     margin-top: 20px;
-    color: var(--pink);
+    color: var(--primary);
 }
 
 .coin-details-heading{
     font-weight: 700 !important;
     margin-top: 20px !important;
-    color: var(--pink) !important;
+    color: var(--primary) !important;
 }
 
 .coin-stats{
@@ -216,7 +217,7 @@ a:hover{
 
 .coin-desc-link h2{
     font-weight: 700;
-    color: var(--pink);
+    color: var(--primary);
 }
 
 .coin-desc-link p{
@@ -225,7 +226,7 @@ a:hover{
 }
 
 .coin-desc-link a{
-    color: var(--pink);
+    color: var(--primary);
 }
 
 .coin-desc-link h3{
@@ -255,7 +256,7 @@ a:hover{
 }
 
 .coin-link a{
-    color: var(--pink);
+    color: var(--primary);
     font-weight: 700;
     font-size: 1rem;
 }
@@ -309,7 +310,7 @@ width: 70%;
     height:100px;
 }
 .news-card p{
-    color: black;
+    color: var(--dark);
     margin: 10px 0px !important;
 }
 .provider-container{
@@ -324,10 +325,10 @@ width: 70%;
     display: flex;
     justify-content: space-between;
     gap: 50px;
-    color: #0071bd;
+    color: var(--primary);
 }
 .chart-title{
-    color: #0071bd !important;
+    color: var(--primary) !important;
 }
 .price-container{
     display: flex !important;
@@ -373,9 +374,40 @@ width: 70%;
 }
 
 .footer {
-    background-color: #001529;
+    background-color: var(--dark);
     display: flex;
     flex-direction: column;
     padding: 20px;
     align-items: center;
+}
+
+.ant-menu.ant-menu-dark, .ant-menu-dark .ant-menu-sub, .ant-menu.ant-menu-dark .ant-menu-sub {
+    background: var(--dark) !important;
+}
+
+.ant-menu-item a:hover {
+    color: #fafafa !important;
+}
+
+.ant-menu-item-selected a, .ant-menu-item-selected a:hover {
+    color: #fafafa !important;
+}
+
+
+
+.ant-menu-item-selected, .ant-menu-item-selected{
+    background: var(--primary) !important;
+}
+
+a.ant-typography, .ant-typography a {
+    color: var(--primary) !important;
+    margin-bottom: 1rem !important;
+}
+
+a.ant-typography:focus, .ant-typography a:focus, a.ant-typography:hover, .ant-typography a:hover {
+    color:#fafafa !important;
+}
+
+a.ant-typography:active, .ant-typography a:active {
+    color: var(--primary) !important;
 }
