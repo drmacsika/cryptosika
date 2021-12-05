@@ -1,9 +1,8 @@
 # CRYPTOSIKA
 A real-time cryptocurrency exchange rates and news app for trading crypto and visualizing the effect of news and sentiments on prices of various cryptocurrencies. 
 
-- Live preview - [Screenshots](#screenshots)
-
 Table of Contents:
+- [Live preview](#screenshots)
 - [Screenshots](#screenshots)
 - [Tools](#tools)
 - [Features](#features)
@@ -13,9 +12,16 @@ Table of Contents:
 - [Additional Info](#additional-info)
 - [Contact Info](#contact-info)
 
+## Live Preview
+[Learn more about CryptoSika and Preview the Live site.](#screenshots)
+
 ## Screenshots
 
 ![Logo](https://github.com/drmacsika/cryptosika/blob/master/src/images/cryptosika_logo_transparent.png)
+
+![Cryptocurrency Detail Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/crypto_detail_page.png)
+
+![Cryptocurrency Detail Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/crypto_detail_page2.png)
 
 ![Home Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/home_page.png)
 
@@ -24,10 +30,6 @@ Table of Contents:
 ![Exchange Page 2](https://github.com/drmacsika/cryptosika/blob/master/src/images/current_exchange_rate_page2.png)
 
 ![Top 100 Cryptocurrencies](https://github.com/drmacsika/cryptosika/blob/master/src/images/cryptocurrencies_list_page2.png)
-
-![Cryptocurrency Detail Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/crypto_detail_page.png)
-
-![Cryptocurrency Detail Page](https://github.com/drmacsika/cryptosika/blob/master/src/images/crypto_detail_page2.png)
 
 ## Tools
 
