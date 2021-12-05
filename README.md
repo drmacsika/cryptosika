@@ -1,4 +1,7 @@
-# CRYPTOSIKA: A Realtime cryptocurrency exhange rates and news app for trading crypto and visualizing the effect of news and sentiments on prices of various crytocurrencies.
+# CRYPTOSIKA: A Realtime cryptocurrency exhange rates and news app for trading crypto and visualizing the effect of news and sentiments on prices of various crytocurrencies. 
+
+Live preview - [Screenshots](#screenshots)
+Learn more - [Screenshots](https://nsikakimoh.com)
 
 Table of Contents:
 - [Screenshots](#screenshots)
@@ -8,6 +11,7 @@ Table of Contents:
 - [Contributing](#contributing)
 - [Credits](#credits)
 - [Additional Info](#additional-info)
+- [Contact Info](#contact-info)
 
 ## Screenshots
 
@@ -73,3 +77,8 @@ All thanks to the Facebook React Team, Redux Team, Rapid API team, and the creat
 ## Additional Info
 
 For an in-depth understanding of REACT or any of the tools used here including questions and collaborations, you can reach out to me.
+
+## Contact Info
+
+If you have any question or want to reach me directly, 
+[Contact Nsikak Imoh](https://nsikakimoh.com).
