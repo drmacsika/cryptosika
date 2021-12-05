@@ -1,7 +1,8 @@
-# CRYPTOSIKA: A Realtime cryptocurrency exhange rates and news app for trading crypto and visualizing the effect of news and sentiments on prices of various crytocurrencies. 
+# CRYPTOSIKA
+A real-time cryptocurrency exchange rates and news app for trading crypto and visualizing the effect of news and sentiments on prices of various cryptocurrencies. 
 
-Live preview - [Screenshots](#screenshots)
-Learn more - [Screenshots](https://nsikakimoh.com)
+- Live preview - [Screenshots](#screenshots)
+- Learn more - [Screenshots](https://nsikakimoh.com)
 
 Table of Contents:
 - [Screenshots](#screenshots)
@@ -31,21 +32,21 @@ Table of Contents:
 - Redux ToolKit for state management
 - Jest for testing
 - Rapid API for getting live coin amounts
-- Bing News API for gettings various realtime crypto news
+- Bing News API for gettings various real-time crypto news
 - ANT Design
 - ANT Design Icons
 - Axios for interacting with the APIs
 - Chart.Js for creating charts
 - react-chartjs-2 for rendering the charts from charts.js
 - Millify to convert extremely large numbers into readable strings
-- html-react-parser  to parse html data
+- html-react-parser  to parse HTML data
 - moment to parse time and dates
 - react-router-dom
 
 ## Features
 
-- Indepth Data about all cryptocurrencies
-- Indepth Data about crypto markets
+- In-depth Data about all cryptocurrencies
+- In-depth Data about crypto markets
 - Latest data about crypto exchanges
 - Cryptocurrency news
 - React best practices
@@ -58,8 +59,6 @@ Table of Contents:
 - Ability to filter news base on coin name.
 
 ## Installation and Usage
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) for installation.
 
 ```bash
 - Get your API keys from Rapid API, create a .env file and use the .env.example file as a guide to set your environment variables.
@@ -83,5 +82,5 @@ For an in-depth understanding of REACT or any of the tools used here including q
 
 ## Contact Info
 
-If you have any question or want to reach me directly, 
+If you have any questions or want to reach me directly, 
 [Contact Nsikak Imoh](https://nsikakimoh.com).
